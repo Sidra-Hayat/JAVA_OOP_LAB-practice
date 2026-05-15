@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Activity4  {
     public static void main(String[] args) {
-        TestPanels frame = new TestPanels();
+        activity4_TestPanels frame = new activity4_TestPanels();
         frame.setTitle("The Front View of a Microwave Oven");
                 frame.setSize(400, 250);
         frame.setLocationRelativeTo(null);

@@ -3,7 +3,7 @@ package lab12;
 import javax.swing.*;
 import java.awt.*;
 
-public class CalculatorGUI {
+public class task1_CalculatorGUI {
     public static void main(String[] args) {
         // Create frame
         JFrame frame = new JFrame("Calculator");

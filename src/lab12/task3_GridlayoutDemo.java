@@ -3,7 +3,7 @@ package lab12;
 import javax.swing.*;
 import java.awt.*;
 
-public class GridlayoutDemo {
+public class task3_GridlayoutDemo {
     public static void main(String[] args) {
         // Create frame
         JFrame frame = new JFrame("GridLayoutDemo");

@@ -5,9 +5,9 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
 
-public class ShowBorderLayout extends JFrame {
+public class activity3_ShowBorderLayout extends JFrame {
 
-    public ShowBorderLayout() {
+    public activity3_ShowBorderLayout() {
         //Set BorderLayout with horizontal gaps 5 and vertical gap 10
         setLayout(new BorderLayout(5, 10));
         //Add buttons to the frame

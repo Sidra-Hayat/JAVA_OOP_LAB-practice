@@ -1,4 +1,7 @@
 package lab1;
+//The example below represents a Date class. As date is composed of three attributes, namely month,
+//year and day; so, the class contains three Data Members. Now every date object will have these three
+//attributes, but each object can have different values for these three
 
 public class Activity2 {
     public static void main(String[] args) {

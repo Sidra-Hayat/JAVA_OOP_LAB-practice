@@ -1,4 +1,9 @@
 package lab1;
+//Activity 3:
+//Consider the concept of a Car Part. After analyzing this concept we may consider that it can be
+//described by three data members: modelNumber, partNumber and cost.
+//The methods should facilitate the user to assign values to these data members and show the values
+//for each object.
 import java.util.Scanner;
 public class Activity3 {
     public static void main(String[] args) {

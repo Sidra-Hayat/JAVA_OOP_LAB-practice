@@ -2,8 +2,8 @@ package lab12;
 
 import java.awt.*;
 import javax.swing.*;
-public class TestPanels extends JFrame {
-    public TestPanels() {
+public class activity4_TestPanels extends JFrame {
+    public activity4_TestPanels() {
 // Create panel p1 for the buttons and set GridLayout
         JPanel p1 = new JPanel();
         p1.setLayout(new GridLayout(4, 3));

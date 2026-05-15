@@ -1,4 +1,6 @@
 package lab1;
+//Consider the concept of a CourseResult. The CourseResult should have data members like the
+//student’s name, course name and grade obtained in that course.
 
 public class Activity1 {
     public static void main(String[] args) {

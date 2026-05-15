@@ -1,4 +1,8 @@
 package lab1;
+//Lab Task 1
+//A Student is an object in a university management System. Analyze the concept and identify the data
+//members that a Student class should have. Also analyze the behavior of student in a university
+//management System and identify the methods that should be included in Student class.
 
 public class Task1_University_management_System {
 
