@@ -4,7 +4,7 @@ A comprehensive Java repository dedicated to Object-Oriented Programming (OOP) c
 
 ## 📚 Overview
 
-This repository contains practice problems, examples, and solutions for learning and mastering Object-Oriented Programming principles in Java. It's designed for students and developers looking to strengthen their understanding of OOP concepts through hands-on coding.
+This repository contains practice problems, examples, and solutions for learning and mastering Object-Oriented Programming principles in Java. It's designed for students and developers looking to strengthen their OOP fundamentals.
 
 ## 🎯 Topics Covered
 
